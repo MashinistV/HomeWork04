@@ -1,0 +1,15 @@
+Random random = new Random();
+int min = 0;
+int max = 2;
+int index = 0;
+int[] array = new int[8];
+
+for (index = 0; index < 8; index++)
+{
+    array[index] = random.Next(min, max);
+}
+
+for (index = 0; index < 8; index++)
+{
+    Console.Write($"{array[index]} ");
+}

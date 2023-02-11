@@ -1,0 +1,15 @@
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/bin/Debug/net7.0/HomeWork04
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/bin/Debug/net7.0/HomeWork04.deps.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/bin/Debug/net7.0/HomeWork04.runtimeconfig.json
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/bin/Debug/net7.0/HomeWork04.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/bin/Debug/net7.0/HomeWork04.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.csproj.AssemblyReference.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.AssemblyInfoInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.AssemblyInfo.cs
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.csproj.CoreCompileInputs.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/refint/HomeWork04.dll
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.pdb
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/HomeWork04.genruntimeconfig.cache
+/Users/mashinistv/Documents/GeekBrain/HomeWork04/obj/Debug/net7.0/ref/HomeWork04.dll
